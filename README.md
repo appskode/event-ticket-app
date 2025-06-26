@@ -18,6 +18,26 @@ A comprehensive event ticketing platform consisting of a Laravel backend API and
 - [Security Features](#security-features)
 - [Future Enhancements](#future-enhancements)
 
+## ✨ Image Ref
+
+<img src="https://github.com/user-attachments/assets/f1838189-d560-4329-993b-e3e78014ed7f" width="300" />
+<img src="https://github.com/user-attachments/assets/e59e4220-f314-4220-a46e-20d8293e7dd5" width="300" />
+<img src="https://github.com/user-attachments/assets/d41454d7-44c7-440c-b3b3-1396ea621eaa" width="300" />
+<img src="https://github.com/user-attachments/assets/5ca94735-79af-47e7-bdce-3ffa8dd91cd3" width="300" />
+<img src="https://github.com/user-attachments/assets/9a224332-31b3-4078-a3a7-45519d65e13e" width="300" />
+<img src="https://github.com/user-attachments/assets/d26591dc-81ce-48f8-bacc-309654c3d50e" width="300" />
+<img src="https://github.com/user-attachments/assets/460fd08e-f955-4cae-bcc5-d315680ee086" width="300" />
+<img src="https://github.com/user-attachments/assets/1a214d15-407d-4c3c-a0d9-f7a6064aaf6a" width="300" />
+<img src="https://github.com/user-attachments/assets/c39f8be4-0eb2-4a71-a65f-664b80ff305e" width="300" />
+<img src="https://github.com/user-attachments/assets/c0e8983b-0f81-4075-8f17-5478c356b874" width="300" />
+<img src="https://github.com/user-attachments/assets/26dd4ef7-5d21-496c-a31f-07d11c86748b" width="300" />
+<img src="https://github.com/user-attachments/assets/38f6ac6d-b211-4b41-b9ce-b932ba1f248f" width="300" />
+
+
+
+<img width="1488" alt="image" src="https://github.com/user-attachments/assets/f0bd68f5-55c2-4004-8e5a-65cb725f3015" />
+
+
 ## 🎯 System Overview
 
 This event ticketing system is a full-stack solution that provides:
@@ -636,11 +656,3 @@ flutter test test/widget_test/
 ---
 
 **Assessment Note**: This comprehensive event ticketing system demonstrates full-stack development expertise, combining Laravel's robust backend capabilities with Flutter's cross-platform mobile development. The architecture emphasizes security, scalability, and maintainability while providing an excellent user experience across platforms.
-
-## 📞 Support & Contributing
-
-For support, please contact the development team or submit issues through the project repository. Contributions are welcome following the established coding standards and architecture patterns.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
